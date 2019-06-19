@@ -1,0 +1,41 @@
+body{
+    background-color: #b4bfdf
+}
+
+.forms{
+    display: flex;
+    justify-content: center;  
+    border: solid;  
+    margin-top: 50px;
+    margin-right: 400px;
+    margin-left: 400px;
+    background-color: #8f9ef1
+}
+.btn{
+    display: flex;
+    justify-content: center; 
+    flex-direction: row;
+}
+h3{
+    font-family: 'Merriweather', serif;
+}
+.submit {
+  background-color: #4CAF50;  
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px; 
+}
+.reset{
+  background-color: rgb(108, 136, 108);  
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
